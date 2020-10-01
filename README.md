@@ -1,4 +1,4 @@
-# HTML5 Speedy Video Extension (for Chrome and Safari)
+# HTML5 Speedy Video Extension (for Chrome,firefox and Safari)
 
 A browser extension that is the easiest way to get more control over playback
 speed of videos on Netflix, Youtube or websites that use VideoJS HTML5 player.
@@ -125,7 +125,7 @@ The extension only runs on explicitly allowed websites. By default it comes with
 ## Disclaimer
 
 This is intended to be a fun personal project, both to train Javascript and to be useful in my daily life (I love to speed-up videos).
-This is not a commercial product and thus support is not available.
+This is not a commercial product and thus support is not available.you can use it to learn more .
 
 ## License
 
